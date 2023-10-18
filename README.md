@@ -1,5 +1,5 @@
 Here's a step-by-step guide for installing the "Enable Copy-Paste & Right-Click Mouse" extension from a GitHub repository. 
-Please follow these steps carefully:
+Please follow these steps carefully to install it in your Browser:
 
 ### How to Install "Enable Copy-Paste & Right-Click Mouse" Extension from a ZIP File:
 
