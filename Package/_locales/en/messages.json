@@ -1,0 +1,43 @@
+{
+  "appName": {
+    "message": "Enable Copy-Paste & Right-Click Mouse"
+  }
+  ,"appDesc": {
+    "message": "Unblock context menu, copy, paste and text selection functionality on sites that prevent them from doing so"
+  }
+  ,"commands": {
+    "message": "Press the button"
+  }
+  ,"rc_auto_site": {
+    "message": "Automatically activate right-click on this Site"
+  }
+  ,"rc_frames": {
+    "message": "Unblock sub-frame elements"
+  }
+  ,"notify_01": {
+    "message": "Cannot use the following automation rule:"
+  }
+  ,"notify_02": {
+    "message": "is added to the list"
+  }
+  ,"notify_03": {
+    "message": "This is not a valid URL:"
+  }
+  ,"options_click_reset": {
+    "message": "Press double-click to reset!"
+  }
+  ,"options_saved": {
+    "message": "Options saved"
+  }
+  ,"options_placeholder": {
+    "message": "Supported Formats:\n\nexample.com\nwww.example.com\nhttp://example.com\n*.example.com\n*://*.example.com/*"}
+  ,"options_title": {
+    "message": "Automatically activate the extension on the following hostnames (comma-separated list of hostnames):"
+  }
+  ,"options_factory": {
+    "message": "Factory Reset"
+  }
+  ,"options_save": {
+    "message": "Save Options"
+  }
+}
